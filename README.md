@@ -1,3 +1,4 @@
+# *************** THIS FORK IS FOR ACADEMIC PURPOSE ************** 
 # Gson
 
 Gson is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object.
